@@ -1,3 +1,5 @@
+WORD=ENIGMA
+
 echo -e "Ok, I picked a word, try to guess\n"
 GO_ON=1
 TRIES=0
