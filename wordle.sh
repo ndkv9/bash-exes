@@ -1,6 +1,6 @@
 WORD=ENIGMA
 
-echo -e "Ok, I picked a word, try to guess\n"
+echo -e "Ok, I picked a word, try to guess it\n"
 GO_ON=1
 TRIES=0
 while [ $GO_ON -eq 1 ]
